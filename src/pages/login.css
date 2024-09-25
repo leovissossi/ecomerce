@@ -1,0 +1,21 @@
+.main{
+    
+    margin: 100px;
+    padding: 100px;
+  }
+  .form{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px;
+    border: solid 1px black;
+    border-radius: 10px;
+  }
+  .button{
+    padding-top: 30px;
+  }
+  .image{
+    border: solid 1px black;
+    border-radius: 10px;
+  }
